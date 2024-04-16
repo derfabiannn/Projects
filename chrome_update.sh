@@ -1,3 +1,5 @@
+## https://derfabian.dev ##
+
 #!/bin/bash
 
 apt update
