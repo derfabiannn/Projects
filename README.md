@@ -1,4 +1,4 @@
-# derfabiannn Project Repository
+# derfabiannn personal Project Repository
 
 ## This Repo contains some of my scripts or programs, which I might use on a daily basis.
 
